@@ -1,5 +1,4 @@
 # MyBatis
-MyBatis
 
 准备动作<br />
 1、启动H2数据库服务端<br />
